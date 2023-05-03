@@ -1,0 +1,11 @@
+{
+  "name": "Check TC No",
+  "manifest_version": 3,
+  "version": "1.0",  
+  "icons": {
+    "64": "icon.png"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
